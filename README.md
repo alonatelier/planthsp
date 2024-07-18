@@ -1,5 +1,11 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
+<param ve-image 
+  url="https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Val%C3%A8re_et_Haut_de_Cry_-_juillet_2022.jpg#/media/File:Ch%C3%A2teau_de_Val%C3%A8re_et_Haut_de_Cry_-_juillet_2022.jpg"
+  title="Château de Valère et Haut de Cry"
+  description="Château de Valère et Haut de Cry - juillet 2022.jpg, CC BY-SA 4.0"
+
+
 # Juncture Repository Template
 
 <param ve-iframe
