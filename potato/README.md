@@ -13,4 +13,11 @@
  ### Introduction
  
  I want to write about the *potato*.
- I want to write about the [potato](https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg)
+ I want to write about the [potato](https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg).
+ I *want* to **write** about the [potato](Q10998), so I depend on the [Wikipedia entry on potatoes](https://en.wikipedia.org/wiki/Potato).  Wikipedia starts with the following sentence: 
+ > The potato is a starchy tuberose vegetable.[^ref1]
+ 
+ 
+ 
+ 
+ [^ref1]:  Wikipedia article on potato.
