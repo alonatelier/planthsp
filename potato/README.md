@@ -28,11 +28,21 @@ This is the third paragraph.
 <param ve-image
 	   src="gh:alonatelier/planthsp/main/potato/cabin_image.jpg">
  
- [^ref1]:  Wikipedia article on potato.
- 
  ### The Potato: Salvation and Suffering
  
- Woven into the history of the potato, from its Indigenous domestication in the Andes to its prevalence in diets around the world today, are the contrasting themes of comedy and tragedy, sustenance and toxicity, manna and misery. Playful and comedic interpretations of the potato abound, as seen in the cartoon <param ve-image
-		src="La pomme de terre. 5 M. Dorian. QB.2093-7.jpg"
-		caption="Cartoon of Pierre-Frédéric Dorian, Fleurs, Fruits & Legumes Du Jour, Alfred Le Petit. Wikimedia Commons."> by Alfred Le Petit from the 1871 collection Fleurs, Fruits & Legumes Du Jour. It lampoons Pierre-Frédéric Dorian, the French Minister of Public Works, by likening him to the humble and earthen tuber. Translated into English, the text reads, “While the poet wanders in vain through the ether, Dorian acts, as everyone knows; In the reality which we find ourselves in, one can never be too much a man of the earth” (homme de terre). The clever wordplay of homme de terre/pomme de terre (French for potato) alludes to Dorian’s role in weapons manufacturing and policy; unlike poets, he is a grounded person of action—or so one might think. Despite his prominence in the politics of defense, Dorian refused to take a position during the popular uprisings of October 31, 1870, which likely accounts for his inclusion in this 1871 satirical publication.
+ ---
+ 
+Woven into the history of the potato, from its Indigenous domestication in the Andes to its prevalence in diets around the world today, are the contrasting themes of comedy and tragedy, sustenance and toxicity, manna and misery. Playful and comedic interpretations of the potato abound, as seen in the cartoon 
+<param ve-image
+		src="wc:La pomme de terre. 5 M. Dorian. QB.2093-7.jpg"
+		caption="Cartoon of Pierre-Frédéric Dorian, Fleurs, Fruits & Legumes Du Jour, Alfred Le Petit. Wikimedia Commons."> 
+        by Alfred Le Petit from the 1871 collection Fleurs, Fruits & Legumes Du Jour. It lampoons Pierre-Frédéric Dorian, the French Minister of Public Works, by likening him to the humble and earthen tuber. Translated into English, the text reads, “While the poet wanders in vain through the ether, Dorian acts, as everyone knows; In the reality which we find ourselves in, one can never be too much a man of the earth” (homme de terre). The clever wordplay of homme de terre/pomme de terre (French for potato) alludes to Dorian’s role in weapons manufacturing and policy; unlike poets, he is a grounded person of action—or so one might think. Despite his prominence in the politics of defense, Dorian refused to take a position during the popular uprisings of October 31, 1870, which likely accounts for his inclusion in this 1871 satirical publication.
+
+
+In sharp contrast to the humorous irreverence of Le Petit, the realm of caricature art also yields potent depictions of the suffering and privation associated with the potato. In Honoré Daumier’s illustrations, the archetypal Irishman is shown as emaciated, ravaged by the 1845–1852 potato famine, and presented in juxtaposition to caricatures of England’s John Bull as a plump colonial oppressor.
+.ve-iframe https://view.collections.yale.edu/m3/?manifest=https://manifests.collections.yale.edu/yuag/obj/17354
+Daumier’s work serves as a provocative interjection by another national entity, France, into the fraught space of the Britain-Ireland dialectic, presumably to reinforce and promote France and its republican, anti-monarchist ideals.[^ref1] In this way, the caricatures suggest a connection between the potato and events of transnational significance that this essay will explore.
+
+[^ref1]: Finola O’Kane, “Poverty, Slavery, and Empire: Honoré Daumier’s Caricatures of Ireland, Great Britain, Jamaica and France, 1844–1867,” in The Routledge Companion to Irish Art, ed. Fionna Barber and Fintan Cullen (New York: Routledge, 2025), 324–34.
+       
  
