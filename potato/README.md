@@ -65,6 +65,9 @@ The potato debaters rejected the earlier efforts of agricultural reformers like 
 .ve-iframe https://www.amrevmuseum.org/virtualexhibits/cost-of-revolution/pages/a-rare-view-of-irish-life
 William Cobbett, a journalist with sensationalist instincts and one of the most ardent opponents of the potato, spoke of “miserable shed[s]” and “holes” where people lived and dined, alongside their livestock, on potatoes: “nasty, filthy hog-feed.”[^ref26] Cobbett’s dehumanizing language portrays potato eaters as scarcely better than animals, living in filth and misery.
 
+ <param ve-image manifest="gh:Alex-Betz/essays/potato/AnselAdams.jpg" caption="Ansel Adams, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*, 1943. Gelatin silver print. Library of Congress, Prints and Photographs Division, https://www.loc.gov/resource/ppprs.00211/#.">
+
+Click on the "Add file" in the top right of your version of this page!
 
 
 [^ref1]: Finola O’Kane, “Poverty, Slavery, and Empire: Honoré Daumier’s Caricatures of Ireland, Great Britain, Jamaica and France, 1844–1867,” in The Routledge Companion to Irish Art, ed. Fionna Barber and Fintan Cullen (New York: Routledge, 2025), 324–34.
