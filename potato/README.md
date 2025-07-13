@@ -38,7 +38,7 @@ The potato debaters rejected the earlier efforts of agricultural reformers like 
 William Cobbett, a journalist with sensationalist instincts and one of the most ardent opponents of the potato, spoke of “miserable shed[s]” and “holes” where people lived and dined, alongside their livestock, on potatoes: “nasty, filthy hog-feed.”[^ref26] Cobbett’s dehumanizing language portrays potato eaters as scarcely better than animals, living in filth and misery.
 
 In keeping with these sentiments, Cobbett opens his entry on the potato in The English Gardener by stating unequivocally that the potato is to be used “merely in company with meat, and not to be used as a substitute for bread…as a substitute for bread, it is the most wasteful thing that can possibly be used.” Far from being suitable for human consumption, he considered potatoes to be “inferior” livestock feed compared to a host of other vegetables.[^ref27]
-<param ve-image manifest="gh:alonatelier/planthsp/potato/Cobbett.jpg" caption="William Cobbett, Frontispiece, The English Gardener, 1833. Dumbarton Oaks Rare Book Collection.">
+<param ve-image manifest="gh:alonatelier/planthsp/potato/Cobbett.jpg" caption="William Cobbett, *The English Gardener*, Frontispiece, 1833. Dumbarton Oaks Rare Book Collection.">
 
 In general, the reliance by Irish Catholic peasants on potatoes contrasted with the diets of Protestant landowners, who were influenced by English gardening practices and cultivated a diversity of crops on their estates, thus—by their perspective—improving the land and taking advantage of its productivity.[^ref28] The class division evident in gardening and cultivation practices comported with an enduring, biblical-tinged rhetoric about the Irish peasant classes dating back to the seventeenth century. In the eyes of English contemporaries, Ireland was untamed, unbroken nature, like Eden before the Fall, its bounties unharnessed by a sybaritic, unindustrious populace.[^ref29] This view served to justify the negative characterizations of the Irish given voice in the potato debates. Controversy surrounding the potato also linked back to traditional food culture in Europe, which held that vegetables that grew under the ground were the lowliest sort of food.[^ref30] During the Industrial Revolution, potatoes would come to be embraced by employers: as cheap and plentiful foodstuff, it enabled them to justify paying workers the lowest living wage.[^ref31]
 
@@ -68,7 +68,6 @@ It is worth noting that the Irish had become exclusively dependent on a small nu
 [^ref2]:   Catherine Gallagher and Stephen Greenblatt, Practicing New Historicism (Chicago: University of Chicago Press, 2000), 133–35.
 [^ref3]: William H. McNeill, “How the Potato Changed the World’s History,” Social Research 66, no. 1 (Spring 1999): 67–70, https://www.jstor.org/stable/40971302.
 
---
 
 [^ref16]: McNeill,  71-72.
 [^ref17]: McNeill, 72; David Nally and Gerry Kearns, “Vegetative States: Potatoes, Affordances, and Survival Ecologies,” Antipode 52, no. 5 (2020): 1378, https://doi.org/10.1111/anti.12652.
