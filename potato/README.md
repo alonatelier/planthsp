@@ -6,7 +6,7 @@
        source-image="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg" 
        height=100
-       author="Nola, Alex, and Jess"
+       author="Nola Rettenmaier, Alexander Betz, and Jessica Gomez"
        layout="vertical">
 
 
