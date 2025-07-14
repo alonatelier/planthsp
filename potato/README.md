@@ -81,6 +81,11 @@ That the potato could be tied up in globally consequent social change is nowhere
        caption="Vincent Van Gogh, *Potato Planting*, 1884. Wikimedia Commons.">
 
 It is worth noting that the Irish had become exclusively dependent on a small number of potato varieties, in particular the blight-prone variety called “Lumper.”[^50] The blight, caused by the infection of potato plants by the Phytophthora infestans fungus, affected potato crops throughout Western Europe. However, only in Ireland did it precipitate the Great Famine, characterized by immense suffering, the death of over one million people, and the subsequent mass migration of over two million Irish people, particularly to North America.[^51] The potato is intertwined with two parallel histories of transatlantic movement: the first, the exchange of food crops—notably the potato—between the Americas and Eurasia, and the second, the migration of Irish people to America. The latter had historical and social reverberations not only for Ireland, but also for the development of the United States.
+<param ve-compare
+       src=wc:"Irish_diaspora.jpg"
+       caption="Parallel maps showing Irish diaspora and Columbian exchange. Wikimedia Commons.">
+<param ve-compare
+       src="BRI_Columbian_Exchange.jpg">
 
 [^1]: Finola O’Kane, “Poverty, Slavery, and Empire: Honoré Daumier’s Caricatures of Ireland, Great Britain, Jamaica and France, 1844–1867,” in The Routledge Companion to Irish Art, ed. Fionna Barber and Fintan Cullen (New York: Routledge, 2025), 324–34.
 [^2]: Catherine Gallagher and Stephen Greenblatt, Practicing New Historicism (Chicago: University of Chicago Press, 2000), 133–35.
