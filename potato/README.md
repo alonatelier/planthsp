@@ -20,14 +20,16 @@ In sharp contrast to the humorous irreverence of Le Petit, the realm of caricatu
        src="https://view.collections.yale.edu/m3/?manifest=https://manifests.collections.yale.edu/yuag/obj/17354">
 Daumier’s work serves as a provocative interjection by another national entity, France, into the fraught space of the Britain-Ireland dialectic, presumably to reinforce and promote France and its republican, anti-monarchist ideals.[^1] In this way, the caricatures suggest a connection between the potato and events of transnational significance that this essay will explore.
 
-Over the millennia, the potato has been the subject of diverse associations, meanings, and values. This multivalence is a product of societal context, and this essay will examine the perceptions and role of the potato in different societies including South America prior to European colonization, Great Britain, France, the United States, as well as through the broader lens of contemporary transnationalism. During the colonization of the Americas, the potato—along with other plants of dietary and economic value—underwent a transatlantic migration that saw its introduction to Europe. 
-<param ve-iframe
-       src="https://www.biodiversitylibrary.org/page/35441767">
-In the wake of this, attempts to integrate the potato into the fabric of European agriculture and food consumption were met with fierce resistance and debate across the social spectrum. 
+Over the millennia, the potato has been the subject of diverse associations, meanings, and values. This multivalence is a product of societal context, and this essay will examine the perceptions and role of the potato in different societies including South America prior to European colonization, Great Britain, France, the United States, as well as through the broader lens of contemporary transnationalism. During the colonization of the Americas, the potato—along with other plants of dietary and economic value—underwent a transatlantic migration that saw its introduction to Europe. In the wake of this, attempts to integrate the potato into the fabric of European agriculture and food consumption were met with fierce resistance and debate across the social spectrum.
+<param ve-image
+       src="wc:MapPotato-1907-0523.jpg"
+       caption="Map of global potato and manioc cultivation, 1907. Wikimedia Commons.">
 
 These controversies saw the potato cast in terms of the perennial conflict between nature and culture. In contrast to bread, the archetypal staple food and staff of life, the potato was viewed as dangerously organic and chthonic, representative of the threat posed by disordered nature to culture and civilization.[^2] Well-intentioned efforts to combat food scarcity and promote the nutritional value of the potato clashed with ingrained attitudes that stigmatized the tuber as unhealthy, inferior to wheaten bread, and a danger to ordered society. Today, science seeks to ameliorate the vulnerability intrinsic to the potato—and which is largely responsible for its tragic associations—by introducing genetic material from wild relatives endemic to Latin America. That the potato has long been implicated in global movement, migration, and profound historical change speaks to the potential for plants to serve as archives in their own right.
 
 The potato plays a significant role in the histories of famine and social inequality, poverty and migration, war and colonialism. In its native range, the potato’s singular capacity to mobilize labor enabled the consolidation of Incan imperial power; on a global scale, it helped fuel European conquest and colonialism.[^3] Historical tragedies such the Irish Great Famine have cemented the potato’s association with hardship and suffering in the collective imagination, a theme that persists in narratives of refugees and internment camps. These tangled social and cultural histories compel us to interrogate how one plant, taking root in different societal contexts, has come to embody such contrasting associations.
+<param ve-iframe
+       src="https://www.biodiversitylibrary.org/page/35441767">
 
 ## The British Potato Debates
 
@@ -94,7 +96,7 @@ It is worth noting that the Irish had become exclusively dependent on a small nu
        src=wc:"Irish_diaspora.jpg"
        caption="Parallel maps showing Irish diaspora and Columbian exchange. Wikimedia Commons.">
 <param ve-compare
-       src="BRI_Columbian_Exchange.jpg">
+       src="wc:Columbian_Exchange.webp">
 
 [^1]: Finola O’Kane, “Poverty, Slavery, and Empire: Honoré Daumier’s Caricatures of Ireland, Great Britain, Jamaica and France, 1844–1867,” in The Routledge Companion to Irish Art, ed. Fionna Barber and Fintan Cullen (New York: Routledge, 2025), 324–34.
 [^2]: Catherine Gallagher and Stephen Greenblatt, Practicing New Historicism (Chicago: University of Chicago Press, 2000), 133–35.
