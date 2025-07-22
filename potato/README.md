@@ -59,6 +59,11 @@ In keeping with these sentiments, Cobbett opens his entry on the potato in *The 
        caption="William Cobbett, *The English Gardener*, Frontispiece, 1833. archive.org.">
 
 In general, the reliance by Irish Catholic peasants on potatoes contrasted with the diets of Protestant landowners, who were influenced by English gardening practices and cultivated a diversity of crops on their estates, thus—by their perspective—improving the land and taking advantage of its productivity.[^28] The class division evident in gardening and cultivation practices comported with an enduring, biblical-tinged rhetoric about the Irish peasant classes dating back to the seventeenth century. In the eyes of English contemporaries, Ireland was untamed, unbroken nature, like Eden before the Fall, its bounties unharnessed by a sybaritic, unindustrious populace.[^29] This view served to justify the negative characterizations of the Irish given voice in the potato debates. Controversy surrounding the potato also linked back to traditional food culture in Europe, which held that vegetables that grew under the ground were the lowliest sort of food.[^30] During the Industrial Revolution, potatoes would come to be embraced by employers: as cheap and plentiful foodstuff, it enabled them to justify paying workers the lowest living wage.[^31]
+<param ve-compare
+       src=wc:"Arcimboldo_Otoño.jpg"
+       caption="Giuseppe Arcimboldo, *Autumn*, 1573; Vincent Van Gogh, *Still Life with Potatoes*, 1885. Wikimedia Commons.">
+<param ve-compare
+       src="wc:Still_Life_with_an_Earthen_Bowl_and_Potatoes_by_Vincent_van_Gogh.jpg">
 
 ## New Food for a New Republic: The Potato in France
 
